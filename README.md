@@ -18,4 +18,4 @@
 
 https://zakonik13.github.io/work-day-scheduler/
 
-![Picture alt]( "Coding Quiz")
+![Picture alt](https://www.webpagescreenshot.info/image-url/8Mn3iWF93 "Coding Quiz")
