@@ -70,7 +70,13 @@ textarea{
   padding-top: 2.5%;
 }
 
-.saveBtn i:hover {
-  font-size: 20px;
-  transition: all .3s ease-in-out;
+.saveBtn:hover {
+  cursor: pointer;
+}
+
+.saveBtn:active {
+  font-size: 15px;
+  border: 2px;
+  border-style: groove;
+  background-color: #059dbe;
 }
