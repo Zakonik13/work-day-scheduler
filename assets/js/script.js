@@ -74,6 +74,10 @@ function storeData() {
 function getData() {
 
     let recallBlocks = JSON.parse(localStorage.getItem("text"));
+
+    if (recallBlocks == null) {
+        return;
+    }
     
     text8.value = recallBlocks[0];
     text9.value = recallBlocks[1];
